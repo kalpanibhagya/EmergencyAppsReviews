@@ -1,0 +1,37 @@
+,Word,list
+0,great,"['great', 'great', 'great', 'outstanding', 'great', 'bang-up', 'bully', 'corking', 'cracking', 'dandy', 'great', 'groovy', 'keen', 'neat', 'nifty', 'not_bad', 'peachy', 'slap-up', 'swell', 'smashing', 'capital', 'great', 'majuscule', 'big', 'enceinte', 'expectant', 'gravid', 'great', 'large', 'heavy', 'with_child']"
+1,amazing,"['amaze', 'astonish', 'astound', 'perplex', 'vex', 'stick', 'get', 'puzzle', 'mystify', 'baffle', 'beat', 'pose', 'bewilder', 'flummox', 'stupefy', 'nonplus', 'gravel', 'amaze', 'dumbfound', 'amazing', 'astonishing', 'amazing', 'awe-inspiring', 'awesome', 'awful', 'awing']"
+2,love,"['love', 'love', 'passion', 'beloved', 'dear', 'dearest', 'honey', 'love', 'love', 'sexual_love', 'erotic_love', 'love', 'sexual_love', 'lovemaking', 'making_love', 'love', 'love_life', 'love', 'love', 'enjoy', 'love', 'sleep_together', 'roll_in_the_hay', 'love', 'make_out', 'make_love', 'sleep_with', 'get_laid', 'have_sex', 'know', 'do_it', 'be_intimate', 'have_intercourse', 'have_it_away', 'have_it_off', 'screw', 'fuck', 'jazz', 'eff', 'hump', 'lie_with', 'bed', 'have_a_go_at_it', 'bang', 'get_it_on', 'bonk']"
+3,cool,"['cool', 'aplomb', 'assuredness', 'cool', 'poise', 'sang-froid', 'cool', 'chill', 'cool_down', 'cool', 'chill', 'cool_down', 'cool', 'cool_off', 'cool_down', 'cool', 'cool', 'coolheaded', 'nerveless', 'cool', 'cool', 'cool', 'cool']"
+4,helpful,['helpful']
+5,disappointed,"['disappoint', 'let_down', 'defeated', 'disappointed', 'discomfited', 'foiled', 'frustrated', 'thwarted']"
+6,useless,['useless']
+7,dangerous,"['dangerous', 'unsafe', 'dangerous', 'grave', 'grievous', 'serious', 'severe', 'life-threatening']"
+8,disorganize,"['disorganize', 'disorganise']"
+9,terrible,"['awful', 'dire', 'direful', 'dread', 'dreaded', 'dreadful', 'fearful', 'fearsome', 'frightening', 'horrendous', 'horrific', 'terrible', 'atrocious', 'abominable', 'awful', 'dreadful', 'painful', 'terrible', 'unspeakable', 'severe', 'terrible', 'wicked', 'frightful', 'terrible', 'awful', 'tremendous']"
+10,irresponsible,['irresponsible']
+11,bad,"['bad', 'badness', 'bad', 'bad', 'big', 'bad', 'tough', 'bad', 'spoiled', 'spoilt', 'regretful', 'sorry', 'bad', 'bad', 'uncollectible', 'bad', 'bad', 'bad', 'risky', 'high-risk', 'speculative', 'bad', 'unfit', 'unsound', 'bad', 'bad', 'bad', 'forged', 'bad', 'defective', 'badly', 'bad', 'badly', 'bad']"
+0,great,"['great', 'great', 'great', 'outstanding', 'great', 'bang-up', 'bully', 'corking', 'cracking', 'dandy', 'great', 'groovy', 'keen', 'neat', 'nifty', 'not_bad', 'peachy', 'slap-up', 'swell', 'smashing', 'capital', 'great', 'majuscule', 'big', 'enceinte', 'expectant', 'gravid', 'great', 'large', 'heavy', 'with_child']"
+1,amazing,"['amaze', 'astonish', 'astound', 'perplex', 'vex', 'stick', 'get', 'puzzle', 'mystify', 'baffle', 'beat', 'pose', 'bewilder', 'flummox', 'stupefy', 'nonplus', 'gravel', 'amaze', 'dumbfound', 'amazing', 'astonishing', 'amazing', 'awe-inspiring', 'awesome', 'awful', 'awing']"
+2,love,"['love', 'love', 'passion', 'beloved', 'dear', 'dearest', 'honey', 'love', 'love', 'sexual_love', 'erotic_love', 'love', 'sexual_love', 'lovemaking', 'making_love', 'love', 'love_life', 'love', 'love', 'enjoy', 'love', 'sleep_together', 'roll_in_the_hay', 'love', 'make_out', 'make_love', 'sleep_with', 'get_laid', 'have_sex', 'know', 'do_it', 'be_intimate', 'have_intercourse', 'have_it_away', 'have_it_off', 'screw', 'fuck', 'jazz', 'eff', 'hump', 'lie_with', 'bed', 'have_a_go_at_it', 'bang', 'get_it_on', 'bonk']"
+3,cool,"['cool', 'aplomb', 'assuredness', 'cool', 'poise', 'sang-froid', 'cool', 'chill', 'cool_down', 'cool', 'chill', 'cool_down', 'cool', 'cool_off', 'cool_down', 'cool', 'cool', 'coolheaded', 'nerveless', 'cool', 'cool', 'cool', 'cool']"
+4,helpful,['helpful']
+5,disappointed,"['disappoint', 'let_down', 'defeated', 'disappointed', 'discomfited', 'foiled', 'frustrated', 'thwarted']"
+6,useless,['useless']
+7,dangerous,"['dangerous', 'unsafe', 'dangerous', 'grave', 'grievous', 'serious', 'severe', 'life-threatening']"
+8,disorganize,"['disorganize', 'disorganise']"
+9,terrible,"['awful', 'dire', 'direful', 'dread', 'dreaded', 'dreadful', 'fearful', 'fearsome', 'frightening', 'horrendous', 'horrific', 'terrible', 'atrocious', 'abominable', 'awful', 'dreadful', 'painful', 'terrible', 'unspeakable', 'severe', 'terrible', 'wicked', 'frightful', 'terrible', 'awful', 'tremendous']"
+10,irresponsible,['irresponsible']
+11,bad,"['bad', 'badness', 'bad', 'bad', 'big', 'bad', 'tough', 'bad', 'spoiled', 'spoilt', 'regretful', 'sorry', 'bad', 'bad', 'uncollectible', 'bad', 'bad', 'bad', 'risky', 'high-risk', 'speculative', 'bad', 'unfit', 'unsound', 'bad', 'bad', 'bad', 'forged', 'bad', 'defective', 'badly', 'bad', 'badly', 'bad']"
+0,great,"['great', 'great', 'great', 'outstanding', 'great', 'bang-up', 'bully', 'corking', 'cracking', 'dandy', 'great', 'groovy', 'keen', 'neat', 'nifty', 'not_bad', 'peachy', 'slap-up', 'swell', 'smashing', 'capital', 'great', 'majuscule', 'big', 'enceinte', 'expectant', 'gravid', 'great', 'large', 'heavy', 'with_child']"
+1,amazing,"['amaze', 'astonish', 'astound', 'perplex', 'vex', 'stick', 'get', 'puzzle', 'mystify', 'baffle', 'beat', 'pose', 'bewilder', 'flummox', 'stupefy', 'nonplus', 'gravel', 'amaze', 'dumbfound', 'amazing', 'astonishing', 'amazing', 'awe-inspiring', 'awesome', 'awful', 'awing']"
+2,love,"['love', 'love', 'passion', 'beloved', 'dear', 'dearest', 'honey', 'love', 'love', 'sexual_love', 'erotic_love', 'love', 'sexual_love', 'lovemaking', 'making_love', 'love', 'love_life', 'love', 'love', 'enjoy', 'love', 'sleep_together', 'roll_in_the_hay', 'love', 'make_out', 'make_love', 'sleep_with', 'get_laid', 'have_sex', 'know', 'do_it', 'be_intimate', 'have_intercourse', 'have_it_away', 'have_it_off', 'screw', 'fuck', 'jazz', 'eff', 'hump', 'lie_with', 'bed', 'have_a_go_at_it', 'bang', 'get_it_on', 'bonk']"
+3,cool,"['cool', 'aplomb', 'assuredness', 'cool', 'poise', 'sang-froid', 'cool', 'chill', 'cool_down', 'cool', 'chill', 'cool_down', 'cool', 'cool_off', 'cool_down', 'cool', 'cool', 'coolheaded', 'nerveless', 'cool', 'cool', 'cool', 'cool']"
+4,helpful,['helpful']
+5,disappointed,"['disappoint', 'let_down', 'defeated', 'disappointed', 'discomfited', 'foiled', 'frustrated', 'thwarted']"
+6,useless,['useless']
+7,dangerous,"['dangerous', 'unsafe', 'dangerous', 'grave', 'grievous', 'serious', 'severe', 'life-threatening']"
+8,disorganize,"['disorganize', 'disorganise']"
+9,terrible,"['awful', 'dire', 'direful', 'dread', 'dreaded', 'dreadful', 'fearful', 'fearsome', 'frightening', 'horrendous', 'horrific', 'terrible', 'atrocious', 'abominable', 'awful', 'dreadful', 'painful', 'terrible', 'unspeakable', 'severe', 'terrible', 'wicked', 'frightful', 'terrible', 'awful', 'tremendous']"
+10,irresponsible,['irresponsible']
+11,bad,"['bad', 'badness', 'bad', 'bad', 'big', 'bad', 'tough', 'bad', 'spoiled', 'spoilt', 'regretful', 'sorry', 'bad', 'bad', 'uncollectible', 'bad', 'bad', 'bad', 'risky', 'high-risk', 'speculative', 'bad', 'unfit', 'unsound', 'bad', 'bad', 'bad', 'forged', 'bad', 'defective', 'badly', 'bad', 'badly', 'bad']"
