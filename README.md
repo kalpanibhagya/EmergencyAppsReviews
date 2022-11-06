@@ -6,9 +6,9 @@ Project implementation can be found in following notebooks
 
 - Task 1,2 - DataExtractionAndTranslation
 - Task 3,4- Sentiment_Analysis
-- Task 5 - Technology Acceptance Model
-- Task 6 - LdaTopicModeling
-- Task 7 - MachineLearningWithSentiments
+- Task 5 - LdaTopicModeling
+- Task 6 - MachineLearningWithSentiments
+- Task 7 - Technology Acceptance Model
 
 CSV and other output files that generated during the process can be found in the ``data`` folder
 
@@ -33,3 +33,4 @@ Install all the libraries by running the ``requirements.txt`` file. Use the foll
 
 ``pip install -r requirements.txt``
 
+To run the DataExtractionAndTranslation & LdaTopicModeling use googlr co labs
