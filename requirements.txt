@@ -1,0 +1,14 @@
+numpy
+pandas
+google_play_scraper
+app_store_scraper
+deep-translator
+gensim==3.8.3
+spacy
+nltk
+pyLDAvis
+scipy
+scikit-learn
+vaderSentiment
+fuzzywuzzy
+matplotlib
