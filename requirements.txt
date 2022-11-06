@@ -3,7 +3,7 @@ pandas
 google_play_scraper
 app_store_scraper
 deep-translator
-gensim==3.8.3
+gensim
 spacy
 nltk
 pyLDAvis
@@ -12,3 +12,4 @@ scikit-learn
 vaderSentiment
 fuzzywuzzy
 matplotlib
+tabulate
