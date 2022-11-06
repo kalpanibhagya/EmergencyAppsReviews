@@ -33,4 +33,4 @@ Install all the libraries by running the ``requirements.txt`` file. Use the foll
 
 ``pip install -r requirements.txt``
 
-To run the DataExtractionAndTranslation & LdaTopicModeling use googlr co labs
+To run the DataExtractionAndTranslation & LdaTopicModeling use google co labs
