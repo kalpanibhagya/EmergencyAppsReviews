@@ -29,5 +29,7 @@ Following Packages need to be installed prior running scripts
 - fuzzywuzzy
 - matplotlib
 
-Can install all the libraries by running the ``requirements.txt`` file.
+Install all the libraries by running the ``requirements.txt`` file. Use the following command for that. 
+
+``pip install -r requirements.txt``
 
