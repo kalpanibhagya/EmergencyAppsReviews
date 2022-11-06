@@ -2,3 +2,32 @@
 
 Analysis of Online Reviews of Emergency apps using NLP and Technology Acceptance Models (TAM). 
 
+Project implementation can be found in following notebooks
+
+- Task 1,2 - DataExtractionAndTranslation
+- Task 3,4- Sentiment_Analysis
+- Task 5 - Technology Acceptance Model
+- Task 6 - LdaTopicModeling
+- Task 7 - MachineLearningWithSentiments
+
+CSV and other output files that generated during the process can be found in the ``data`` folder
+
+
+Following Packages need to be installed prior running scripts
+- numpy
+- pandas
+- google_play_scraper
+- app_store_scraper
+- deep-translator
+- gensim==3.8.3
+- spacy
+- nltk
+- pyLDAvis
+- scipy
+- scikit-learn
+- vaderSentiment
+- fuzzywuzzy
+- matplotlib
+
+Can install all the libraries by running the ``requirements.txt`` file.
+
