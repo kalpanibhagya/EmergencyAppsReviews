@@ -1,0 +1,15 @@
+numpy
+pandas
+google_play_scraper
+app_store_scraper
+deep-translator
+gensim
+spacy
+nltk
+pyLDAvis
+scipy
+scikit-learn
+vaderSentiment
+fuzzywuzzy
+matplotlib
+tabulate
